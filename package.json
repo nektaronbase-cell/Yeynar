@@ -1,0 +1,14 @@
+{
+  "name": "yeynar",
+  "version": "1.0.0",
+  "description": "Yeynar - access to all, starting with Farcaster integration via Neynar API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@neynar/nodejs-sdk": "^2.0.5",
+    "dotenv": "^16.4.5"
+  }
+}
